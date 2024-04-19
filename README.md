@@ -1,0 +1,1 @@
+# cetelem-prestashop-module-8.x
